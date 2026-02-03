@@ -53,6 +53,7 @@ webshop/
 │   │   └─ ProductController.php
 │   │
 │   ├─ Repositories/
+│   │   ├─ ProductRepository.php
 │   │   └─ ProductRepository.php
 │   │
 │   ├─ Database/
